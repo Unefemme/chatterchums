@@ -16,8 +16,8 @@ function App() {
   return (
     <>
       <Navbar />
-      <Features />
       <Hero />
+      <Features />
       <LearningAct />
       <ProgressTrack />
       <Portfolio2 />
@@ -26,7 +26,6 @@ function App() {
       <SecondHero />
       <Subplans />
       <FAQ />
-
       <Contact />
     </>
   );

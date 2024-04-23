@@ -17,30 +17,25 @@ export const parentalData = [
 ];
 export const FeedbackData = [
   {
-    image: "/imagei.svg",
     heading: "Emily Johnson",
     text: "My daughter loves using this app! It's engaging and educational at the same time. She has learned so much since she started using it",
   },
   {
-    image: "/imageii.svg",
     heading: "Micheal Thompson",
     text: "I highly recommend this app to all parents and teachers. It has a wide range of educational activities that are both fun and interactive. My students have shown great improvement in their learning.",
   },
 
   {
-    image: "/imageiii.svg",
     heading: "Sophia Davis",
     text: "I am amazed by the quality of this app. The content is well-designed and age-appropriate. It keeps my son entertained while he learns new concepts. Thank you for creating such a wonderful educational tool!",
   },
 
   {
-    image: "/imageiv.svg",
     heading: "Daniel Wilson",
     text: "The support team is excellent! They are always prompt in addressing any issues or concerns. I appreciate their dedication to providing a smooth user experience.",
   },
 
   {
-    image: "/imagev.svg",
     heading: "Olivia Anderson",
     text: "This app has been a game-changer for my child's learning journey. The interactive lessons and quizzes have made learning enjoyable for him. I can see his progress and confidence growing every day.",
   },
@@ -88,7 +83,7 @@ export const learningActData = [
   {
     title: "Step 1: Choose an Activity",
     description:
-      "Browse through our collection of educational activities and select the one that interests your child the most.",
+      "Browse through our collection of educational activities and select the one that interests your child.",
   },
   {
     title: "Step 2: Engage and Learn",
